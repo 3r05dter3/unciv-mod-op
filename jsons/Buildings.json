@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Prussian",
+		"name": "Prussian Barracks",
 		"replaces": "Barracks",
 		"uniqueTo": "Prussia",
 		"hurryCostModifier": 25,
