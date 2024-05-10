@@ -12,15 +12,22 @@
 		"attacked": "Corrupted villain! We will bring you into the ground!",
 		"defeated": "Germany has been destroyed. I weep for the future generations.",
 		"introduction": "Guten Tag. In the name of the great German people, I bid you welcome.",
-		"neutralHello": "What now?",
-		"hateHello": "So, out with it!",
-		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Speak."],
+		"neutralNo": ["No.","That's unacceptable."],
+		"neutralYes": ["I can't refuse.","I gladly accept."],
+		"hateHello": "Don't waste my time!",
+		"hateLetsHearIt": "What's your offer?",
+		"hateNo": ["Hungary will never accept that!","No way!"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
+		"uniqueName": "Patronage of the Raven",
 		"uniques": "[+25]% maintenance costs <for [Land] units>", "Damage is ignored when determining unit Strength <for [non-[Air]] units>", "[+1] Movement <for [Land] units>", "[+15]% Strength <for [Land] units>", "[+20]% XP gained from combat"],
 		
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
@@ -29,6 +36,5 @@
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
 			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
 			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"],
-    		"spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	}
 ]
