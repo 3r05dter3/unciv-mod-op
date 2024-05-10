@@ -1,25 +1,23 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Prussian",
+		"replaces": "Barracks",
+		"uniqueTo": "Prussia",
+		"hurryCostModifier": 25,
+		"happiness": 2,
+		"maintenance": 0,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Prussian Academy",
+		"replaces": "Military Academy",
+		"uniqueTo": "Prussia",
+		"hurryCostModifier": 0,
+		"maintenance": 0,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
 	}
 ]
